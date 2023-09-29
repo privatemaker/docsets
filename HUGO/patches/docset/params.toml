@@ -1,0 +1,4 @@
+# For Dash Docset
+show_navbar = true
+show_sidebar = false
+show_footer = false
